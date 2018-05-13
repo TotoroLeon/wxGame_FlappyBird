@@ -24,5 +24,5 @@
 
 ## 演示:
 
-```
+ 
 ![avatar](https://github.com/TotoroLeon/wxGame_FlappyBird/blob/master/demo.gif)
